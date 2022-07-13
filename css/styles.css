@@ -94,12 +94,11 @@ img {
     display: flex;
 }
 
-.icon-mail {
-    vertical-align: -1px;
+.icon-smartphone {
+    fill: var (--primary-text-color);
     width: 16px;
     height: 12px;
     margin-right: 10px;
-    fill: currentColor;
 }
 
 .icon-phone {
